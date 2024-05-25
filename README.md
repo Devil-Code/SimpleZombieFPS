@@ -9,12 +9,6 @@ This is a basic first-person shooter (FPS) game built using C# where players hav
 - Health bar to indicate player's health status.
 - Score tracking system.
 
-#### Screenshots:
-![Screenshot 1](/simple-zombie-defence-fps/screenshot1.png)
-![Screenshot 2](simple-zombie-defence-fps/screenshot2.png)
-![Screenshot 3](simple-zombie-defence-fps/screenshot3.png)
-![Screenshot 4](simple-zombie-defence-fps/screenshot4.png)
-
 #### Gameplay:
 1. Use WASD keys to move the player character.
 2. Aim using the mouse cursor.
@@ -39,8 +33,5 @@ Open the project in Unity and build it for your desired platform (Windows, macOS
 
 #### License:
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
-
-#### Author:
-- Your Name ([Your GitHub Profile](https://github.com/yourusername))
 
 Feel free to contribute by submitting bug reports, feature requests, or pull requests!
