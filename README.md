@@ -29,7 +29,7 @@ This is a basic first-person shooter (FPS) game built using C# where players hav
 #### Installation:
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/zombie-fps-game.git
+git clone https://github.com/Devil-Code/zombie-fps-game.git
 ```
 Open the project in Unity and build it for your desired platform (Windows, macOS, Linux, etc.).
 
@@ -38,7 +38,7 @@ Open the project in Unity and build it for your desired platform (Windows, macOS
 - Scripts handle player movement, zombie behavior, shooting mechanics, wave spawning, health management, and scoring.
 
 #### License:
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
 #### Author:
 - Your Name ([Your GitHub Profile](https://github.com/yourusername))
