@@ -31,6 +31,15 @@ Open the project in Unity and build it for your desired platform (Windows, macOS
 - The main game logic is implemented in C# scripts within the Unity project.
 - Scripts handle player movement, zombie behavior, shooting mechanics, wave spawning, health management, and scoring.
 
+#### Contact Information:
+
+For any inquiries or issues, please contact:
+- **Pritesh Gandhi**
+- **Email**: pgandhi1412@gmail.com
+- **GitHub**: [YourGitHubProfile](https://github.com/Devil-Code)
+
+
+
 #### License:
 This project is licensed under the [GNU General Public License v3.0](LICENSE).
 
